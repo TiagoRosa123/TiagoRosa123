@@ -1,43 +1,57 @@
-## Hi there! 👋
+# Hi there, I'm Tiago! 👋
 
-I'm Tiago, a passionate developer who loves exploring new technologies and building innovative projects. Coding is not just my job; it's my hobby! Let's connect and create amazing things together.
+I'm a passionate Full Stack Developer focused on building scalable web applications and solving complex problems. I enjoy working with the **.NET ecosystem** combined with modern frontend frameworks like **React**.
 
-## About Me
+- 🔭 I’m currently working on My Final Course Project
+- 🌱 I’m currently learning more about **Cloud Architecture & Advanced React Patterns**
+- 👯 I’m looking to collaborate on **Open Source .NET projects**
+- 💬 Ask me about **C#, ASP.NET, Python, or React**
+- 📫 How to reach me: **[tiagoandre_12@hotmail.com]**
 
-I'm a Junior Software Developer with experience in various programming languages and frameworks. I enjoy working on projects that allow me to learn and grow. Currently, I'm based in an undisclosed location and am open to exciting opportunities in the tech industry.
+---
 
-## Skills & Technologies
+### 💻 Tech Stack
 
-html,css,js,cpp,java,nodejs,react,mysql,docker,git,github,vue,rails,py,postgres
+Here are the tools and technologies I work with:
 
-## Top Projects
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" style="margin-right: 10px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" style="margin-right: 10px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" style="margin-right: 10px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" style="margin-right: 10px" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp" style="margin-right: 10px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnet" style="margin-right: 10px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" style="margin-right: 10px" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="sql-server" style="margin-right: 10px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" style="margin-right: 10px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" style="margin-right: 10px" />
+</div>
 
-- [CV](https://github.com/TiagoRosa123/CV): Here is my CV! ⭐️ 0 stars, Language: Markdown
-- [Cocktail-Explorer](https://github.com/TiagoRosa123/Cocktail-Explorer): Explore various cocktails and their recipes. ⭐️ 1 star, Language: JavaScript
-- [ATEC-HQ-Final-Project](https://github.com/TiagoRosa123/ATEC-HQ-Final-Project): A collaborative project for my final class. ⭐️ 0 stars, Language: Not specified
-- [Loja-Online](https://github.com/TiagoRosa123/Loja-Online): An online store built with modern web technologies. ⭐️ 1 star, Language: HTML
-- [Projeto_RH](https://github.com/TiagoRosa123/Projeto_RH): A human resources management system. ⭐️ 0 stars, Language: C++
+<br>
 
-## GitHub Stats
+---
 
-🔹 Public Repositories: 6  
-🔹 Followers: 5  
-🔹 Following: 5  
+### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TiagoRosa123&show_icons=true&theme=radical)
+<div align="center">
+  <a href="https://github.com/TiagoRosa123">
+    <img src="https://github-readme-stats.vercel.app/api?username=TiagoRosa123&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="180" alt="TiagoRosa123's stats" />
+  </a>
+  <a href="https://github.com/TiagoRosa123">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoRosa123&layout=compact&theme=dracula&langs_count=8" height="180" alt="TiagoRosa123's Top Languages" />
+  </a>
+</div>
 
-## Recent Activity
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TiagoRosa123&theme=dracula" alt="TiagoRosa123's Streak" />
+</div>
 
-- Pushed to [CV](https://github.com/TiagoRosa123/CV) on January 14, 2026  
-- Created [ATEC-HQ-Final-Project](https://github.com/TiagoRosa123/ATEC-HQ-Final-Project) on January 7, 2026  
-- Pushed to [Cocktail-Explorer](https://github.com/TiagoRosa123/Cocktail-Explorer) on December 12, 2025  
-- Pushed to [Loja-Online](https://github.com/TiagoRosa123/Loja-Online) on December 15, 2025  
-- Updated [Projeto_RH](https://github.com/TiagoRosa123/Projeto_RH) on November 25, 2025
+---
 
-## Latest Blog Posts
-
-Currently, I don't have any blog posts. Stay tuned for updates!
-
-## Connect with Me
-
-{}
+<div align="center">
+  <a href="https://www.linkedin.com/in/tiagorosa1500" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
