@@ -4,11 +4,11 @@ I'm Tiago, a passionate developer who loves exploring new technologies and build
 
 ## About Me
 
-I'm a software developer with experience in various programming languages and frameworks. I enjoy working on projects that allow me to learn and grow. Currently, I'm based in an undisclosed location and am open to exciting opportunities in the tech industry.
+I'm a Junior Software Developer with experience in various programming languages and frameworks. I enjoy working on projects that allow me to learn and grow. Currently, I'm based in an undisclosed location and am open to exciting opportunities in the tech industry.
 
 ## Skills & Technologies
 
-html,css,js,cpp,java,nodejs,react,django,flask,mysql,mongodb,docker,git,github,vue,rails
+html,css,js,cpp,java,nodejs,react,mysql,docker,git,github,vue,rails,py,postgres
 
 ## Top Projects
 
