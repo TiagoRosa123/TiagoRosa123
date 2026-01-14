@@ -6,7 +6,7 @@ I'm a passionate Full Stack Developer focused on building scalable web applicati
 - 🌱 I’m currently learning more about **Cloud Architecture & Advanced React Patterns**
 - 👯 I’m looking to collaborate on **Open Source .NET projects**
 - 💬 Ask me about **C#, ASP.NET, Python, or React**
-- 📫 How to reach me: **[tiagoandre_12@hotmail.com]**
+- 📫 How to reach me: **tiagoandre_12@hotmail.com**
 
 ---
 
