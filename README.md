@@ -1,57 +1,78 @@
-# Hi there, I'm Tiago! 👋
+<h1 align="left">Hey 👋 What's up?</h1>
 
-I'm a passionate Full Stack Developer focused on building scalable web applications and solving complex problems. I enjoy working with the **.NET ecosystem** combined with modern frontend frameworks like **React**.
+###
 
-- 🔭 I’m currently working on My Final Course Project
-- 🌱 I’m currently learning more about **Cloud Architecture & Advanced React Patterns**
-- 👯 I’m looking to collaborate on **Open Source .NET projects**
-- 💬 Ask me about **C#, ASP.NET, Python, or React**
-- 📫 How to reach me: **tiagoandre_12@hotmail.com**
+<p align="left">My name is ..Tiago and I'm a Junior Web Devloper, from Comporta. I am currently completing my Specialist Technician Degree in Information Systems Programming at ATEC (Palmela). My training has been highly practical, giving me a solid foundation in the software development life cycle.<br><br>Through my studies and projects, I found my passion in Web Development and Scripting. I particularly enjoy working with:<br><br>Front-End: JavaScript (ES6+), React.js, HTML5, CSS3<br><br>Back-End/General: Python, SQL</p>
 
----
+###
 
-### 💻 Tech Stack
+<h2 align="left">About me</h2>
 
-Here are the tools and technologies I work with:
+###
+
+<p align="left">✨ Creating bugs since 2025<br>📚 I'm currently My Final Course Project<br>🎯 Goals: Learn as much as i can<br>🎲 Fun fact: Sometimes i´m funny  and can be pretty sarcastic, so don´t take it personally...</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" style="margin-right: 10px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" style="margin-right: 10px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" style="margin-right: 10px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" style="margin-right: 10px" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp" style="margin-right: 10px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnet" style="margin-right: 10px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" style="margin-right: 10px" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="sql-server" style="margin-right: 10px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" style="margin-right: 10px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" style="margin-right: 10px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
 
-<br>
-
----
-
-### 📊 GitHub Stats
+###
 
 <div align="center">
-  <a href="https://github.com/TiagoRosa123">
-    <img src="https://github-readme-stats.vercel.app/api?username=TiagoRosa123&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="180" alt="TiagoRosa123's stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TiagoRosa123&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TiagoRosa123&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TiagoRosa123/TiagoRosa123/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TiagoRosa123/TiagoRosa123/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/TiagoRosa123/TiagoRosa123/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center" style="width: 100%">
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
   </a>
-  <a href="https://github.com/TiagoRosa123">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoRosa123&layout=compact&theme=dracula&langs_count=8" height="180" alt="TiagoRosa123's Top Languages" />
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
   </a>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TiagoRosa123&theme=dracula" alt="TiagoRosa123's Streak" />
-</div>
-
----
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/tiagorosa1500" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
+###
